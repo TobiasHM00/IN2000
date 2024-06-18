@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GruppetimeEksempler</string>
+
+    <string-array name="norske_ord">
+        <item>Katt</item>
+        <item>Hund</item>
+        <item>Ekorn</item>
+    </string-array>
+
+    <string-array name="engelske_ord">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Squirrel</item>
+    </string-array>
+</resources>

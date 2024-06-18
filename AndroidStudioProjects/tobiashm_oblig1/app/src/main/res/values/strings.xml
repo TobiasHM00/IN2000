@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tobiashm_oblig1</string>
+
+    <string-array name="units">
+        <item>Fluid ounce (fl oz)</item>
+        <item>Cup</item>
+        <item>Gallon</item>
+        <item>Hogshead</item>
+    </string-array>
+</resources>
